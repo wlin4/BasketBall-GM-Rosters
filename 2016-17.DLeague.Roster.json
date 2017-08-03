@@ -9,7 +9,7 @@
 "contract":{"amount":150,"exp":2017},
 "draft":{"round":1,"pick":1,"tid":-1,"originalTid":-1,"year":2004},
 "college":"N/A",
-"ratings":[{"hgt":72,"stre":70,"spd":40,"jmp":42,"endu":56,"ins":65,"dnk":60,"ft":53,"fg":61,"tp":0,"blk":50,"stl":15,"drb":30,"pss":20,"reb":68,"pot":55,"skills":[]}],
+"ratings":[{"hgt":92,"stre":97,"spd":46,"jmp":90,"endu":70,"ins":90,"dnk":92,"ft":54,"fg":72,"tp":0,"blk":97,"stl":16,"drb":30,"pss":20,"reb":96,"pot":82,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -19,7 +19,7 @@
 "imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSieHZOTcFeDPkQwBVR7qeAhjLpfP7ukCn6VxXDoLWSUDe88oFw_OA2D24",
 "draft":{"round":1,"pick":3,"tid":-1,"originalTid":-1,"year":2004},
 "college":"St. Johns",
-"ratings":[{"hgt":80,"stre":34,"spd":50,"jmp":32,"endu":36,"ins":31,"dnk":66,"ft":53,"fg":41,"tp":20,"blk":32,"stl":36,"drb":32,"pss":30,"reb":40,"pot":58,"skills":[]}],
+"ratings":[{"hgt":80,"stre":80,"spd":60,"jmp":60,"endu":82,"ins":80,"dnk":60,"ft":80,"fg":82,"tp":70,"blk":32,"stl":54,"drb":72,"pss":46,"reb":70,"pot":80,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":-1,
@@ -30,7 +30,7 @@
 "contract":{"amount":250,"exp":2017},
 "draft":{"round":1,"pick":4,"tid":-1,"originalTid":-1,"year":2005},
 "college":"North Carolina",
-"ratings":[{"hgt":31,"stre":48,"spd":65,"jmp":66,"endu":50,"ins":31,"dnk":30,"ft":53,"fg":61,"tp":0,"blk":12,"stl":26,"drb":52,"pss":52,"reb":21,"pot":52,"skills":[]}],
+"ratings":[{"hgt":46,"stre":60,"spd":86,"jmp":60,"endu":97,"ins":72,"dnk":30,"ft":86,"fg":86,"tp":76,"blk":12,"stl":92,"drb":97,"pss":99,"reb":21,"pot":82,"skills":[]}],
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":13,
@@ -46,7 +46,7 @@
 
 {"tid":-1,
 "name":"Joe Johnson",
-"ratings":[{"hgt":50,"stre":34,"spd":60,"jmp":52,"endu":46,"ins":31,"dnk":60,"ft":53,"fg":61,"tp":33,"blk":52,"stl":16,"drb":12,"pss":22,"reb":21,"pot":50,"skills":[]}],
+"ratings":[{"hgt":54,"stre":46,"spd":60,"jmp":57,"endu":86,"ins":70,"dnk":50,"ft":80,"fg":77,"tp":76,"blk":20,"stl":26,"drb":60,"pss":57,"reb":46,"pot":50,"skills":[]}],
 "pos":"SG","hgt":79,"weight":240,
 "born":{"year":1980,"loc":"Baltimore, MA"},
 "imgURL":"http://stats.nba.com/media/players/230x185/203900.png",
@@ -56,14 +56,14 @@
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":3,
-"name":"T.J. Price",
-"ratings":[{"hgt":36,"stre":47,"spd":65,"jmp":62,"endu":56,"ins":31,"dnk":50,"ft":58,"fg":63,"tp":53,"blk":12,"stl":46,"drb":32,"pss":32,"reb":21,"pot":52,"skills":[]}],
+"name":"Dwyane Wade",
+"ratings":[{"hgt":50,"stre":77,"spd":96,"jmp":76,"endu":82,"ins":72,"dnk":77,"ft"76,"fg":80,"tp":46,"blk":57,"stl":92,"drb":72,"pss":72,"reb":60,"pot":86,"skills":[]}],
 "pos":"SG","hgt":76,"weight":220,
-"born":{"year":1993,"loc":"Slidell, LA"},
-"imgURL":"http://ak-static.cms.nba.com/wp-content/uploads/headshots/dleague/1628120.png",
+"born":{"year":1982,"loc":"Illinois"},
+"imgURL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOz-vhOr6s5Cer9pUasJGGsv8yC8_PSmQF1FlD7sWmsfeHKuhWvA",
 "contract":{"amount":150,"exp":2017},
-"draft":{"round":1,"pick":17,"tid":15,"originalTid":15,"year":2016},
-"college":"Western Kentucky",
+"draft":{"round":1,"pick":5,"tid":15,"originalTid":15,"year":2004},
+"college":"Marquette",
 "injury":{"type":"Healthy","gamesRemaining":0}},
 
 {"tid":2,
